@@ -10,6 +10,7 @@
 - [ ] **Criar parser JSON** → Garantir que o formato retornado está correto
 - [ ] **Tratar erro de JSON inválido** → Capturar e processar exceções
 - [ ] **Criar validação contra lista permitida** → Garantir que não seja inventada uma categoria
+- [ ] **Fallback seguro** → Criar um mecanismo de tratamento para quando o modelo falhar
 
 ## Testes
 
