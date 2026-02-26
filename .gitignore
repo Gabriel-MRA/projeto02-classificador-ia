@@ -1,3 +1,4 @@
 .env
+.env_copy
 
 __pycache__
